@@ -7,7 +7,7 @@
 Modelled upon GC.OS elections process.
 
 
-:mega: GC.OS is holding its first set of community council elections!
+:mega: GC.OS is holding its first set of board elections!
 
 * :sunny: We believe in open source and open science. We think AI technology - especially open source - should be openly governed.
 
@@ -37,7 +37,7 @@ See [detail description here](https://github.com/gc-os-ai/elections/blob/main/pr
 
 ## What are the rights and duties of councilors?
 
-The community council is the primary executive body of GC.OS, councilors decide on matters such as project direction or financials, subject to the GC.OS [mission](https://www.sktime.net/en/stable/about/mission.html)
+The board of directors is the primary executive body of GC.OS, councilors decide on matters such as project direction or financials, subject to the GC.OS [mission](https://www.sktime.net/en/stable/about/mission.html)
 and [code of conduct](https://www.sktime.net/en/stable/get_involved/code_of_conduct.html).
 
 Details on [GC.OS governance here](https://www.sktime.net/en/stable/get_involved/governance.html)
