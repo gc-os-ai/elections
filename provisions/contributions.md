@@ -33,9 +33,6 @@ Special non-examples:
   estimators (or objects) owned by oneself and closely linked to corporate or academic
   self-agenda do not count towards eligibility.
   This is not forbidden, but does not count as contribution.
-* work derived from a developer role not paid for by GC.OS or its member projects in
-  the context of a work contract (to avoid ambiguity: grant funding and stipend programs
-  such as GSoC, ESoC, and similar initiatives are not work contracts).
 
 #### Contributions - scope
 
@@ -167,7 +164,7 @@ Examples for substantial contributions (community) are:
   extend to acquiring funding from one's affiliated institution or employer, to avoid conflict of interest.
 * leading on a relevant workstream of administrative proceedings, e.g., drafting a contract, giving legal advice
 * carrying out defined community roles with 1-2h weekly load for at least 6 months according to expectation and specification, e.g.:
-  * GC.OS or member project council member
+  * community council member in a GC.OS-affiliated project or a GC.OS board member
   * treasurer
   * fundraising manager
 
