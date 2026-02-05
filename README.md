@@ -26,7 +26,7 @@ All seven seats on the board are open for election:
 
 The above is a variant of opening four seats, with three seats in continuity with the current founders board
 
-As this is the first cohort of elected councilors, tenure for the open positions will vary between 1 and 3 years. In particular there will be:
+As this is the first cohort of elected board members, tenure for the open positions will vary between 1 and 3 years. In particular there will be:
 
 * 2 seats open with a 3-year tenure.
 * 3 seats open with a 2-year tenure.
@@ -34,14 +34,14 @@ As this is the first cohort of elected councilors, tenure for the open positions
 
 See [detail description here](https://github.com/gc-os-ai/elections/blob/main/provisions/elections-council-2026.md#seats-and-voting-algorithm).
 
-## What are the rights and duties of councilors?
+## What are the rights and duties of board members?
 
-The board of directors is the primary executive body of GC.OS, councilors decide on matters such as project direction or financials, subject to the GC.OS [mission](https://www.sktime.net/en/stable/about/mission.html)
+The board of directors is the primary executive body of GC.OS, board members decide on matters such as project direction or financials, subject to the GC.OS [mission](https://www.sktime.net/en/stable/about/mission.html)
 and [code of conduct](https://www.sktime.net/en/stable/get_involved/code_of_conduct.html).
 
 Details on [GC.OS governance here](https://www.sktime.net/en/stable/get_involved/governance.html)
 
-A key expectation is that councilors will proactively contribute to the widening of GC.OS's governance model and charitable mission.
+A key expectation is that board members will proactively contribute to the widening of GC.OS's governance model and charitable mission.
 
 ## Who is eligible to vote or to stand?
 
@@ -50,7 +50,7 @@ A key expectation is that councilors will proactively contribute to the widening
   * voter registration is required, see timelines
   * a discord account on the GC.OS discord is required to vote
 
-* Contributors with a frequent and substantial contribution history can stand as councilors,
+* Contributors with a frequent and substantial contribution history can stand as board members,
 this includes non-code contributions.
 Specifics are summarized in the [eligibility criteria here](https://github.com/gc-os-ai/elections/blob/main/provisions/elections-council-2026.md#eligibility).
 
