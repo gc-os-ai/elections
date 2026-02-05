@@ -1,94 +1,108 @@
-### DRAFT provisions for GC.OS board elections
+# Provisions for GC.OS board elections 2026
 
-NOTE: the below are draft provisions for continuous board elections.
+**DRAFT document for internal discussion.**
 
-The 2026 elections are subject to special provisions, and the elected board
-will finalize the election provisions.
+**PLEASE NOTE: FORMS IN THIS DOCUMENT ARE NOT LIVE AND SHOULD NOT BE USED YET**
 
-1. Timelines
+## Seats and voting algorithm
 
-    i. Elections to the board occur annually, in December.
+### Roles
 
-    ii. The voting period spans two weeks.
+The elections are for board member seats.
 
-    iii. Prospective candidates are required to complete their registration within a window of at least two weeks and no more than four weeks prior to the commencement of the voting period. Additionally, they must submit a comprehensive candidate statement along with their registration.
+See role specification here: https://www.sktime.net/en/stable/get_involved/governance.html
 
-    iv. Individuals intending to vote must register within a timeframe of at least two weeks and no more than eight weeks before the voting period starts.
+### Seats and tenure
 
-    v. The announcement of voting results should take place no later than two weeks after the conclusion of the voting period. In cases of unexpected delays or procedural discrepancies, timely communication regarding such matters must be conveyed to both the voters and candidates.
+* the 2026 GC.OS board elections are for all seven board seats
+* three seats are elected by the current board
+* four seats are elected by the general electorate (contributors)
 
-2. Term Structure and Re-election
+There are three shifted cohorts, cohort A, B, C.
+Ultimately these cohorts are planned for 3 years tenure.
 
-    i. The board operates with three shifted cohorts of seats, cohort A, B, and C
+As these are the first sktime elections, some cohorts have shorted tenure to enable future shifting.
 
-    ii. To maintain this structure, seats in each of the cohorts open for re-election every three years, cohort B in the year after cohort A, and cohort C in the year after cohort B, and so on.
+Seats are filled in this order:
 
-3. Votes and Determination of End
+1. cohort C, 3 years tenure, by current board
+2. cohort C, 3 years tenure, by general electorate
+3. cohort B, 2 years tenure, by current board
+4. cohort B, 2 years tenure, by general electorate
+5. cohort B, 2 years tenure, by general electorate
+6. cohort A, 1 year tenure, by current board
+7. cohort A, 1 year tenure, by general electorate
 
-    i. A vote constitutes an ordered preference list of all eligible candidates who have registered for the election. Votes of the board members (at vote opening) and the general electorate, excluding the board members, are counted separately.
+### Vote tallying algorithm
 
-    ii. half of the seats of a year's cohort (rounded up/down alternatingly) is determined based on votes of the general electorate excluding board; the other half is determined based on votes of the board (at vote opening). First the board preference seats are filled; then the general electorate preference seats.
+Each voter from the general electorate fills in four polls:
 
-    iii. The determination of the end result involves a multi-step process. For each step: first, all candates filtered out by the exclusion rules (see there) are eliminated. Then, all first-choice votes are tallied for the candidates competing for a given seat. If a candidate receives an absolute majority at this stage, that candidate claims a seat. If not, the candidate with the fewest first-choice votes is eliminated, and their votes are redistributed to the remaining candidates based on the next preference marked on each ballot. This iterative process continues until candidates secure an absolute majority for the available seats.
+* selecting top preference from all candidates
+* selecting top 2 preferences from all candidates
+* selecting top 3 preferences from all candidates
+* selecting top 4 preferences from all candidates
 
-    iv. Once a candidate claims a seat, they are removed from all further counts for the end result. The procedure in iii is carried out first for the board member votes, then the general electorate votes.
+Each voter from the current board fills in three polls:
 
-    v. a well-annotated piece of python code determining the end result, given digitized votes, should be publicly available at all times. This code should be used to tally the votes and determine the end result.
+* selecting top preference from all candidates
+* selecting top 2 preferences from all candidates
+* selecting top 3 preferences from all candidates
 
-4. voting
+Votes are tallied as follows:
 
-    i. Each eligible voter is entitled to cast one vote by indicating their ordered preference of candidates on the ballot.
+Proceed with the seats ordered as above, 1-7.
 
-    ii. The voting process should be designed to ensure anonymity, and mechanisms must be in place to safeguard the confidentiality of each voter's choices.
+1. consider the the open seat with lowest number.
+  Let n be its order rank to be filled,
+  by the group determining the seat (board or general electorate),
+  this will be an integer, between 1 and 4.
+  Find the candidate with most mentions in the "top n preferences" vote of that group.
+2. check exclusion criteria for the candidate. If not met, seat the candidate.
+  Eliminate the candidate from further seatings, in any case.
+3. Goto 1 until no more seats or candidates remain.
 
-    iii. the precise voting procedures must be communicated to all voters no later than two weeks before the vote, and deposited in a publicly visible location.
+Proceed with the four general electorate seats, using the same algorithm.
 
-5. Audit
+### Exclusion rules
 
-    i. In the interest of transparency and fairness, observers are to be appointed to audit the voting process.
+* a candidate of a primary affiliation that is already present on the board or has filled a seat cannot be elected. The same holds for a primary affiliation that is the same up to significant individual or institutional dependency relation such as >50% owned subsidiaries, or a substantial conflict of interest relationship.
 
-    ii. The observers should include at least two representatives chosen by the arbitration committee.
+* at least 1/3 of the seats must be filled by candidates eligible through code contributions; at least 1/3 of the seats must be filled by candidates eligible through community contributions. If a seat assignment would make this impossible, the candidate cannot take the seat. If there is no possible seat assignment satisfying the above to start with, the 1/3 should be replaced by the largest possible fraction smaller than 1/3.
 
-    iii. together with voter registration, voters from the general electorate may volunteer as observers. If there is at least one such volunteer, then at least one or two observers should be selected by a fair lot from among the volunteers.
+## Eligibility
 
-#### eligibility to vote
+### Eligibility to vote
 
-Formal requirements
+1. voter registration completed in time - [voter registration form](https://forms.gle/tTFFbwTe5eYcheJQA)
+2. contributor with any contribution registered in `allcontributor-src` (`sktime`, `skpro`, or `skbase`)
+3. not subject to an active full ban or relevant code of conduct sanction at the voter registration cutoff
 
-    i. voter registration in time
 
-    ii. members of the GC.OS organisation
+### Eligibility to be elected
 
-    iii. individual 
+1. candidates must be eligible to vote
+2. contributor with at least a "substantial" code or community contribution as defined
+  in the [contribution requirements document](https://github.com/sktime/elections/blob/main/provisions/contributions.md),
+  within the 18 calendar months prior to the election date
+3. candidates must have registered in time
+4. candidates must have submitted a candidate statement with their registration, intended for publication
+5. candidates must have truthfully declared their full name, primary affiliations, and any conflicts of interest in their candidate statement
 
-    iv. not subject to an active full ban or relevant code of conduct sanction at the voter registration cutoff
+## Arbitration and administration of the election process
 
-There is no contribution requirement for eligibility, as members are already assumed to contribute (at least registration details or membership fees)
+The 2026 voting process is implemented and overseen by the current code of conduct committee
+(chair: Dr Franz Kiraly), carrying out functions of an elections committee and arbitration committee.
 
-#### eligibility to be elected
+The current GC.OS board recognizes: the experimental nature of the widened governance model;
+the transitionality of the current setup; and the potentially
+adverserial nature of an open source ecosystem under increasing competitive pressure.
 
-1. Formal requirements
+The board is committed to ensure a peaceful and efficient transition to the
+more professional governance model, and to protect the guiding vision
+behind the elections, that of openly goverend open source AI software that benefits all.
 
-    i. candidates must be eligible to vote
-
-    ii. candidates must have registered in time
-
-    iii. candidates must have submitted a candidate statement with their registration
-
-    iv. candidates must have truthfully declared their primary affiliations and conflicts of interest in their candidate statement
-
-2. Exclusion rules
-
-    i. these exclusion rules are used in the iterative procedure for determining the end result of the vote, and count at the point a candidate could fill a seat.
-
-    ii. a candidate of a primary affiliation that is already present on the board or has filled a seat cannot be elected. The same holds for a primary affiliation that is the same up to significant individual or institutional dependency relation such as >50% owned subsidiaries, or a substantial conflict of interest relationship.
-
-    iii. after 6 years of continuous tenure, a candidate can claim a seat only with 2/3 or more of cast votes, at any point of the iterative procedure
-
-    iv. at least 1/3 of the seats must be filled by candidates eligible through code contributions; at least 1/3 of the seats must be filled by candidates eligible through community contributions. If a seat assignment would make this impossible, the candidate cannot take the seat. If there is no possible seat assignment satisfying the above to start with, the 1/3 should be replaced by the largest possible fraction smaller than 1/3.
-
-    v. upon any formal complaint by candidates, the arbitration committee determines interpretation of the exclusion rules. Such interpretations must be consistent with precedent.
-
-3. Contribution requirement:
-
-candidates must have made substantial code or community contributions in the 18 months leading up to the election period, as defined in the [contribution requirements document](https://github.com/GC.OS/elections/blob/main/contributions.md).
+For this reason, the elections committee and the current board reserve
+their rights to make amendments to the provisions
+in the present transitional situation, when (and, strictly, only when) necessary
+in order to ensure the vision is protected and realized, e.g.,
+for the purposes of security, minimizing interference, or ensuring process robustness.
