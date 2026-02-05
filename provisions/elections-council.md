@@ -1,12 +1,10 @@
 ### DRAFT provisions for GC.OS board elections
 
-NOTE: the below are draft provisions for continuous board elections.
+NOTE I: the below are draft provisions for continuous board elections.
 
-The 2024 elections are subject to special provisions, and the elected board
-will finalize the election provisions.
+NOTE II: The 2026 elections are subject to special provisions, and the current GC.OS board will finalize these special election provisions.
 
-
-1. Timelines 
+1. Timelines
 
     i. Elections to the board occur annually, in December.
 
@@ -18,16 +16,15 @@ will finalize the election provisions.
 
     v. The announcement of voting results should take place no later than two weeks after the conclusion of the voting period. In cases of unexpected delays or procedural discrepancies, timely communication regarding such matters must be conveyed to both the voters and candidates.
 
-
 2. Term Structure and Re-election
 
     i. The board operates with three shifted cohorts of seats, cohort A, B, and C
 
     ii. To maintain this structure, seats in each of the cohorts open for re-election every three years, cohort B in the year after cohort A, and cohort C in the year after cohort B, and so on.
 
-3.  Votes and Determination of End 
+3. Votes and Determination of End
 
-    i. A vote constitutes an ordered preference list of all eligible candidates who have registered for the election. Votes of the boardors (at vote opening) and the general electorate, excluding the boardors, are counted separately. 
+    i. A vote constitutes an ordered preference list of all eligible candidates who have registered for the election. Votes of the boardors (at vote opening) and the general electorate, excluding the boardors, are counted separately.
 
     ii. half of the seats of a year's cohort (rounded up/down alternatingly) is determined based on votes of the general electorate excluding board; the other half is determined based on votes of the board (at vote opening). First the board preference seats are filled; then the general electorate preference seats.
 
@@ -36,7 +33,6 @@ will finalize the election provisions.
     iv. Once a candidate claims a seat, they are removed from all further counts for the end result. The procedure in iii is carried out first for the boardor votes, then the general electorate votes.
 
     v. a well-annotated piece of python code determining the end result, given digitized votes, should be publicly available at all times. This code should be used to tally the votes and determine the end result.
-
 
 4. voting
 
@@ -53,7 +49,6 @@ will finalize the election provisions.
     ii. The observers should include at least two representatives chosen by the arbitration committee.
 
     iii. together with voter registration, voters from the general electorate may volunteer as observers. If there is at least one such volunteer, then at least one or two observers should be selected by a fair lot from among the volunteers.
-
 
 #### eligibility to vote
 
@@ -92,7 +87,6 @@ There is no contribution requirement for eligibility, as members are already ass
     iv. at least 1/3 of the seats must be filled by candidates eligible through code contributions; at least 1/3 of the seats must be filled by candidates eligible through community contributions. If a seat assignment would make this impossible, the candidate cannot take the seat. If there is no possible seat assignment satisfying the above to start with, the 1/3 should be replaced by the largest possible fraction smaller than 1/3.
 
     v. upon any formal complaint by candidates, the arbitration committee determines interpretation of the exclusion rules. Such interpretations must be consistent with precedent.
-
 
 3. Contribution requirement:
 
