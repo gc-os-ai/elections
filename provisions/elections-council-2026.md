@@ -1,4 +1,4 @@
-# Provisions for GC.OS board elections 2025
+# Provisions for GC.OS board elections 2026
 
 **DRAFT document for internal discussion.**
 
@@ -14,7 +14,7 @@ See role specification here: https://www.sktime.net/en/stable/get_involved/gover
 
 ### Seats and tenure
 
-* the 2025 GC.OS board elections are for all seven board seats
+* the 2026 GC.OS board elections are for all seven board seats
 * three seats are elected by the current board
 * four seats are elected by the general electorate (contributors)
 
@@ -90,7 +90,7 @@ Proceed with the four general electorate seats, using the same algorithm.
 
 ## Arbitration and administration of the election process
 
-The 2025 voting process is implemented and overseen by the current code of conduct committee
+The 2026 voting process is implemented and overseen by the current code of conduct committee
 (chair: Dr Franz Kiraly), carrying out functions of an elections committee and arbitration committee.
 
 The current GC.OS board recognizes: the experimental nature of the widened governance model;
