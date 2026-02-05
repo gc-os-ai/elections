@@ -120,7 +120,7 @@ Examples for substantial contributions (community) are:
   This should be fundraising or grants application, rather than a direct donation.
 * leading on a relevant workstream of administrative proceedings, e.g., drafting a contract, giving legal advice
 * carrying out defined community roles with 1-2h weekly load for at least 6 months according to expectation and specification, e.g.:
-  * community council member
+  * community council member in a GC.OS-affiliated project or a GC.OS board member
   * treasurer
   * fundraising manager
 
