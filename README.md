@@ -85,6 +85,6 @@ All times are midnight UTC, end of the day.
 1. read the [eligibility criteria here](https://github.com/gc-os-ai/elections/blob/main/provisions/elections-council-2026.md#eligibility-to-be-elected)
 2. 2026-07-11 - read information about submission process of candidate statements published at opening of candidate registration - link added here
 3. 2026-08-01 or before - register and submit a candidate statement - candidate registration form - link added here
-4. until 2025-12-31 - participate candidate Q&A
-5. 2025-12-24 - 2025-12-31 - vote on discord
-6. 2026-01-07 or earlier - results are announced. If successful, you will receive communication on onboarding.
+4. until 2026-08-10 - participate in candidate Q&A
+5. 2026-08-10 - 2026-08-24 - vote on discord
+6. 2026-09-01 or earlier - results are announced. If successful, you will receive communication on onboarding from the election committee.
