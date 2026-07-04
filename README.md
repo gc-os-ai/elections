@@ -1,11 +1,4 @@
-# :postbox: 2025 GC.OS elections to board of directors
-
-**DRAFT document for internal discussion.**
-
-**PLEASE NOTE: FORMS IN THIS DOCUMENT ARE NOT LIVE AND SHOULD NOT BE USED YET**
-
-Modelled upon GC.OS elections process.
-
+# :postbox: 2026 GC.OS elections to steering council
 
 :mega: GC.OS is holding its first set of board elections!
 
@@ -20,7 +13,7 @@ Eligibility is defined by merit, not place of birth, social class, or connectedn
 
 ## What positions are open?
 
-All seven seats on the board are open for election:
+All seven seats on the steering council are open for election:
 
 * four of the seats for election by all contributors
 * three of the seats for election by the current founders board
@@ -33,14 +26,14 @@ As this is the first cohort of elected councilors, tenure for the open positions
 * 3 seats open with a 2-year tenure. 
 * 2 seats open with a 1-year tenure.
 
-See [detail description here](https://github.com/gc-os-ai/elections/blob/main/provisions/elections-council-2025.md#seats-and-voting-algorithm).
+See [detail description here](https://github.com/gc-os-ai/elections/blob/main/provisions/elections-council-2026.md#seats-and-voting-algorithm).
 
 ## What are the rights and duties of councilors?
 
-The board of directors is the primary executive body of GC.OS, councilors decide on matters such as project direction or financials, subject to the GC.OS [mission](https://www.sktime.net/en/stable/about/mission.html)
+The steering council is the primary executive body of GC.OS, councilors decide on matters such as project direction or financials, subject to the GC.OS [mission](https://www.sktime.net/en/stable/about/mission.html)
 and [code of conduct](https://www.sktime.net/en/stable/get_involved/code_of_conduct.html).
 
-Details on [GC.OS governance here](https://www.sktime.net/en/stable/get_involved/governance.html)
+More on [GC.OS governance here](https://gcos.ai/blog/governance/)
 
 A key expectation is that councilors will proactively contribute to the widening of GC.OS's governance model and charitable mission.
 
@@ -53,7 +46,7 @@ A key expectation is that councilors will proactively contribute to the widening
 
 * Contributors with a frequent and substantial contribution history can stand as councilors,
 this includes non-code contributions.
-Specifics are summarized in the [eligibility criteria here](https://github.com/gc-os-ai/elections/blob/main/provisions/elections-council-2025.md#eligibility).
+Specifics are summarized in the [eligibility criteria here](https://github.com/gc-os-ai/elections/blob/main/provisions/elections-council-2026.md#eligibility).
 
    * if you are not sure whether you can stand, ping `arbitration-committee` on the GC.OS discord
    * candidate registration is required, see timelines
@@ -70,28 +63,28 @@ See [full voting schema here](https://github.com/gc-os-ai/elections/blob/main/pr
 
 All times are midnight UTC, end of the day.
 
-* 2025-12-01 - voter registration opens
-* 2025-12-08 - candidate registration opens
-* 2025-12-22 - voter and candidate registration deadline
-* 2025-12-23 - candidate statements published
-* 2025-12-24 - election period opens
-* 2025-12-31 - election period closes
-* 2026-01-07 or earlier - results are announced
+* 2026-07-04 - voter registration opens
+* 2026-07-11 - candidate registration opens
+* 2026-08-01 - voter and candidate registration deadline
+* 2026-08-03 - candidate statements published
+* 2026-08-10 - election period opens
+* 2026-08-24 - election period closes
+* 2026-09-01 or earlier - results are announced
 
 ## Todos - voters
 
-1. read the [eligibility criteria here](https://github.com/gc-os-ai/elections/blob/main/provisions/elections-council-2025.md#eligibility-to-vote)
-2. 2025-12-22 or before - check the `all-contributors` file whether you have a badge. If not, open a PR asap with pointers to your contribution. If a user, note that filling out the [user feedback form](https://forms.gle/eVuzrCjKDRupxawL7) counts as contribution towards a badge.
-3. 2025-12-22 or before - fill out and submit voter registration form [TEST FORM, NOT IN USE](https://forms.gle/tTFFbwTe5eYcheJQA) NOTE: THIS IS AN OLD FORM
-4. 2025-12-24 or after - read candidate statements published [here](https://github.com/gc-os-ai/elections/tree/main/2025-candidate-statements)
-5. until 2025-12-31 - optional: participate in candidate Q&A
-6. 2025-12-24 - 2024-12-31 - vote on discord
+1. read the [eligibility criteria here](https://github.com/gc-os-ai/elections/blob/main/provisions/elections-council-2026.md#eligibility-to-vote)
+2. 2026-07-04 or before - check the `all-contributors` file whether you have a badge. If not, open a PR asap with pointers to your contribution.
+3. 2026-08-01 or before - fill out and submit the [voter registration form]([https://forms.gle/tTFFbwTe5eYcheJQA](https://forms.office.com/e/sDSDtnewga))
+4. 2026-08-03 or after - read candidate statements published [here](https://github.com/gc-os-ai/elections/tree/main/2026-candidate-statements)
+5. until 2026-08-10 - optional: participate in candidate Q&A
+6. 2026-08-10 - 2026-08-24 - vote on discord
 
 ## Todos - candidates
 
-1. read the [eligibility criteria here](https://github.com/gc-os-ai/elections/blob/main/provisions/elections-council-2025.md#eligibility-to-be-elected)
-2. 2025-12-08 - read information published at opening of candidate registration ([discord link](https://discord.com/channels/1075852648688930887/1080978658874904658/1282460549590024278))
-3. 2025-12-22 or before - register and submit a candidate statement - candidate registration form [TEST FORM, NOT IN USE](https://forms.gle/j4thBthvve6i2gRS6)
+1. read the [eligibility criteria here](https://github.com/gc-os-ai/elections/blob/main/provisions/elections-council-2026.md#eligibility-to-be-elected)
+2. 2026-07-11 - read information about submission process of candidate statements published at opening of candidate registration - link added here
+3. 2026-08-01 or before - register and submit a candidate statement - candidate registration form - link added here
 4. until 2025-12-31 - participate candidate Q&A
 5. 2025-12-24 - 2025-12-31 - vote on discord
 6. 2026-01-07 or earlier - results are announced. If successful, you will receive communication on onboarding.
