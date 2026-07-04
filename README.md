@@ -30,10 +30,7 @@ See [detail description here](https://github.com/gc-os-ai/elections/blob/main/pr
 
 ## What are the rights and duties of councilors?
 
-The steering council is the primary executive body of GC.OS, councilors decide on matters such as project direction or financials, subject to the GC.OS [mission](https://www.sktime.net/en/stable/about/mission.html)
-and [code of conduct](https://www.sktime.net/en/stable/get_involved/code_of_conduct.html).
-
-More on [GC.OS governance here](https://gcos.ai/blog/governance/)
+The steering council is the primary executive body of GC.OS, councilors decide on matters such as project direction or financials, subject to the GC.OS [mission](https://gcos.ai/about/) and [GC.OS governance framework](https://gcos.ai/blog/governance/).
 
 A key expectation is that councilors will proactively contribute to the widening of GC.OS's governance model and charitable mission.
 
