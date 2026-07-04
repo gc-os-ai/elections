@@ -72,7 +72,7 @@ All times are midnight UTC, end of the day.
 
 1. read the [eligibility criteria here](https://github.com/gc-os-ai/elections/blob/main/provisions/elections-council-2026.md#eligibility-to-vote)
 2. 2026-07-04 or before - check the `all-contributors` file whether you have a badge. If not, open a PR asap with pointers to your contribution.
-3. 2026-08-01 or before - fill out and submit the [voter registration form]([https://forms.gle/tTFFbwTe5eYcheJQA](https://forms.office.com/e/sDSDtnewga))
+3. 2026-08-01 or before - fill out and submit the [voter registration form](https://forms.office.com/e/sDSDtnewga)
 4. 2026-08-03 or after - read candidate statements published [here](https://github.com/gc-os-ai/elections/tree/main/2026-candidate-statements)
 5. until 2026-08-10 - optional: participate in candidate Q&A
 6. 2026-08-10 - 2026-08-24 - vote on discord
