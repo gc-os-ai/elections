@@ -77,7 +77,7 @@ Proceed with the four general electorate seats, using the same algorithm.
 1. candidates must be eligible to vote
 2. contributor with at least a "substantial" code or community contribution as defined
   in the [contribution requirements document](https://github.com/gc-os-ai/elections/blob/main/provisions/contributions.md),
-  within the 18 calendar months prior to the election date
+  within the 18 calendar months prior to the election registration date
 3. candidates must have registered in time
 4. candidates must have submitted a candidate statement with their registration, intended for publication
 5. candidates must have truthfully declared their full name, primary affiliations, and any conflicts of interest in their candidate statement
