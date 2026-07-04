@@ -1,8 +1,4 @@
-# Provisions for GC.OS board elections 2025
-
-**DRAFT document for internal discussion.**
-
-**PLEASE NOTE: FORMS IN THIS DOCUMENT ARE NOT LIVE AND SHOULD NOT BE USED YET**
+# Provisions for GC.OS board elections 2026
 
 ## Seats and voting algorithm
 
@@ -73,8 +69,8 @@ Proceed with the four general electorate seats, using the same algorithm.
 
 ### Eligibility to vote
 
-1. voter registration completed in time - [voter registration form](https://forms.gle/tTFFbwTe5eYcheJQA)
-2. contributor with any contribution registered in `allcontributor-src` (`sktime`, `skpro`, or `skbase`)
+1. voter registration completed in time - [voter registration form](https://forms.office.com/e/sDSDtnewga)
+2. contributor with any contribution registered in `allcontributor-src` (only projects with such a mechanism)
 3. not subject to an active full ban or relevant code of conduct sanction at the voter registration cutoff
 
 
@@ -82,7 +78,7 @@ Proceed with the four general electorate seats, using the same algorithm.
 
 1. candidates must be eligible to vote
 2. contributor with at least a "substantial" code or community contribution as defined
-  in the [contribution requirements document](https://github.com/sktime/elections/blob/main/provisions/contributions.md),
+  in the [contribution requirements document](https://github.com/gc-os-ai/elections/blob/main/provisions/contributions.md),
   within the 18 calendar months prior to the election date
 3. candidates must have registered in time
 4. candidates must have submitted a candidate statement with their registration, intended for publication
@@ -90,7 +86,7 @@ Proceed with the four general electorate seats, using the same algorithm.
 
 ## Arbitration and administration of the election process
 
-The 2025 voting process is implemented and overseen by the current code of conduct committee
+The 2026 voting process is implemented and overseen by the current code of conduct committee
 (chair: Dr Franz Kiraly), carrying out functions of an elections committee and arbitration committee.
 
 The current GC.OS board recognizes: the experimental nature of the widened governance model;
