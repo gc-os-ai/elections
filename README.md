@@ -11,7 +11,7 @@ Eligibility is defined by merit, not place of birth, social class, or connectedn
 
 :globe_with_meridians: GC.OS takes inspiration from Wikipedia, and aspires to become an open knowledge hub, providing opportunities to everyone.
 
-## What positions are open?
+## Which positions are open?
 
 All seven seats on the steering council are open for election:
 
