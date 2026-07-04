@@ -1,16 +1,14 @@
-# Provisions for GC.OS board elections 2026
+# Provisions for GC.OS steering council elections 2026
 
 ## Seats and voting algorithm
 
 ### Roles
 
-The elections are for board member seats.
-
-See role specification here: https://www.sktime.net/en/stable/get_involved/governance.html
+The elections are for seats on the steering council.
 
 ### Seats and tenure
 
-* the 2025 GC.OS board elections are for all seven board seats
+* the 2026 GC.OS board elections are for all seven board seats
 * three seats are elected by the current board
 * four seats are elected by the general electorate (contributors)
 
