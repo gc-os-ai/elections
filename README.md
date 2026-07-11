@@ -80,8 +80,20 @@ All times are midnight UTC, end of the day.
 ## Todos - candidates
 
 1. read the [eligibility criteria here](https://github.com/gc-os-ai/elections/blob/main/provisions/elections-council-2026.md#eligibility-to-be-elected)
-2. 2026-07-11 - read information about submission process of candidate statements published at opening of candidate registration - link added here
-3. 2026-08-01 or before - register via the [candidate registration form](https://forms.office.com/e/kGcET4KS3V). Submit a candidate statement via the form, or by PR to this repository, [this folder](https://github.com/gc-os-ai/elections/tree/main/2026-candidate-statements)
+2. 2026-07-11 - read information about submission process of candidate statements published at opening of candidate registration, below.
+3. 2026-08-01 or before - register via the [candidate registration form](https://forms.office.com/e/kGcET4KS3V), and submit a candidate statement.
 4. until 2026-08-10 - participate in candidate Q&A
 5. 2026-08-10 - 2026-08-24 - vote on discord
 6. 2026-09-01 or earlier - results are announced. If successful, you will receive communication on onboarding from the election committee.
+
+### Submission of candidate statements
+
+Candidate statements can be submitted in two ways, submitting them via one pathway suffices:
+
+1. submitting via the candidate registration form, this has a field where text can be submitted.
+2. opening a PR to this repository, [this folder](https://github.com/gc-os-ai/elections/tree/main/2026-candidate-statements).
+
+Statements should be markdown formatted. They can contain images, or links to third party websites.
+Images or media cannot be submitted via the form.
+
+Candidates who need technical help with formatting, media files, or markdown writing, can contact the elections committee (elections badge on discord) anytime for requesting assistance.
