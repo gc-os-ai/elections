@@ -39,7 +39,7 @@ A key expectation is that councilors will proactively contribute to the widening
 * Any contributor (having an `all-contributors` badge by the voter registration deadline) can vote in this election.
 
   * voter registration is required, see timelines
-  * a discord account on the GC.OS discord is required to vote
+  * a discord account on the GC.OS discord is required to vote - [GC.OS discord server](https://discord.gg/7uKdHfdcJG)
 
 * Contributors with a frequent and substantial contribution history can stand as councilors,
 this includes non-code contributions.
@@ -81,7 +81,7 @@ All times are midnight UTC, end of the day.
 
 1. read the [eligibility criteria here](https://github.com/gc-os-ai/elections/blob/main/provisions/elections-council-2026.md#eligibility-to-be-elected)
 2. 2026-07-11 - read information about submission process of candidate statements published at opening of candidate registration - link added here
-3. 2026-08-01 or before - register and submit a candidate statement - candidate registration form - link added here
+3. 2026-08-01 or before - register and submit a candidate statement - via the candidate registration form, or PR to this repository, [this folder](https://github.com/gc-os-ai/elections/tree/main/2026-candidate-statements)
 4. until 2026-08-10 - participate in candidate Q&A
 5. 2026-08-10 - 2026-08-24 - vote on discord
 6. 2026-09-01 or earlier - results are announced. If successful, you will receive communication on onboarding from the election committee.
