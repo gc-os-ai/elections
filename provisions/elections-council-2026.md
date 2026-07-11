@@ -68,7 +68,9 @@ Proceed with the four general electorate seats, using the same algorithm.
 ### Eligibility to vote
 
 1. voter registration completed in time - [voter registration form](https://forms.office.com/e/sDSDtnewga)
-2. contributor with any contribution registered in `allcontributor-src` (only projects with such a mechanism)
+2. contributor with any contribution registered in `allcontributor-src`
+    * only applies to projects with an `allcontributor-src` mechanism. For project without, a short summary of contributions should be given in the voter registration form.
+    * issues outside the responsibility of the voter registrant (such as delayed or failed merge of a contributor record) do not harm their eligibility
 3. not subject to an active full ban or relevant code of conduct sanction at the voter registration cutoff
 
 
