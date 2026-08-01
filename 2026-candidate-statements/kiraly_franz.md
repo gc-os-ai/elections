@@ -47,8 +47,6 @@ Over the last years, I have been instrumental in:
 * designing the current and future governance framework, including the representative council
 * fundraising and sustainability, e.g., establishing European Summer of Code, joint venture companies
 
-I am also the key actor in setting up our first commercial joint venture, sktime Enterprise Solutions, strengthening our sustainability model.
-
 
 ### Policies proposed for 2026-2028
 
