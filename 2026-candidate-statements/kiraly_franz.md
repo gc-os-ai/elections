@@ -23,7 +23,7 @@ The focus needs to be on models that actually work on scale - close to societal 
 
 While the ultimate goal should be an integration with societal or governmental processes, we had to learn in the last years that - despite a lot of lip service - the actual politics currently often does not favour our approach.
 
-For example, in Germany, the problem is not lack of funding for open source, the yearly budget is in the likely range of billions. However, misallocation and is rampant, and so are incompetence, corruption, and lobbying.
+For example, in Germany, the problem is not lack of funding for open source, the yearly budget is in the likely range of billions. However, misallocatio is rampant, and so are incompetence, corruption, and lobbying.
 
 Technology funding in the AI space is frequently allocated by individuals, companies and (registered) lobby organizations without a democratic mandate. This is often tolerated - or even directly initiated - by the politicians on point (in Germany: mostly CDU/CSU).
 
