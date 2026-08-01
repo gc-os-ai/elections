@@ -15,7 +15,7 @@ Open source is a major economic factor worldwide - especially for the AI revolut
 
 Therefore, thinking about governance - and ensuring that it is democratic and benefitting all - is crucial. See this [interview with me on the topic](https://www.odbms.org/2025/11/on-the-economic-and-political-aspects-of-open-source-qa-with-franz-kiraly/).
 
-GC.OS needs to become one of a network of organization doing the important work of building sustainable governance and innovation models for AI.
+GC.OS needs to become one of a network of organizations doing the important work of building sustainable governance and innovation models for AI.
 
 The focus needs to be on models that actually work on scale - close to societal and political systems in the EU and unaligned middle powers.
 
