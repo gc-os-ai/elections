@@ -25,7 +25,7 @@ While the ultimate goal should be an integration with societal or governmental p
 
 For example, in Germany, the problem is not lack of funding for open source, the yearly budget is in the likely range of billions. However, misallocation is rampant, and so are incompetence, corruption, and lobbying.
 
-Technology funding in the AI space is frequently allocated by individuals, companies and (registered) lobby organizations without a democratic mandate. This is often tolerated - or even directly initiated - by the politicians on point (in Germany: mostly CDU/CSU).
+Technology funding in the AI space is frequently allocated by individuals, companies and (registered) lobby organizations without a democratic mandate. This is often tolerated - or even directly initiated - by the politicians on point.
 
 Therefore, we - the open source communities - must become sustainable and scale on our own. The fight for a democratic future takes place exactly here. We should of course be able to quickly make any external support count, but we must not rely on it, or expect it.
 
