@@ -9,7 +9,7 @@ I'd be happy for the opportunity to also help the organization move through its 
 In a world where AI and open source increasingly get monopolized, GC.OS is more important than ever in providing everyone with free access to a common foundation layer for AI.
 
 
-### Political vision - open source as a democractic governance model
+### Political vision - open source as a democratic governance model
 
 Open source is a major economic factor worldwide - especially for the AI revolution.
 
