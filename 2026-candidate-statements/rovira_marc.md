@@ -2,7 +2,7 @@
 
 ## About me
 
-For those who don't know me, I'm Marc Rovira - `marrov` on GitHub. I work as a Senior Data Scientist, live in Stockholm (Sweden), and have been an active member of the GC.OS and `sktime` community. I moved from avid user of `sktime`, to active community member, then member of the first elected community council at `sktime`, and now part of the transitional council for GC.OS and 
+For those who don't know me, I'm Marc Rovira - `marrov` on GitHub. I work as a Senior Data Scientist, live in Stockholm (Sweden), and have been an active member of the GC.OS and `sktime` community. I moved from an avid user of `sktime`, to active community member, then member of the first elected community council at `sktime`, and now part of the transitional council for GC.OS.
 
 ## Contribution history
 
