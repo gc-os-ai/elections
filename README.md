@@ -54,7 +54,7 @@ Specifics are summarized in the [eligibility criteria here](https://github.com/g
 * sets are assigned by "largest vote count at or above rank, among unseated candidates" principle
 * subject to exclusion criteria, e.g., no two candidates with same primary affiliation can win a seat
 
-See [full voting schema here](https://github.com/gc-os-ai/elections/blob/main/provisions/elections-council-2025.md#seats-and-voting-algorithm).
+See [full voting schema here](https://github.com/gc-os-ai/elections/blob/main/provisions/elections-council-2026.md#seats-and-voting-algorithm).
 
 ## Timelines
 
