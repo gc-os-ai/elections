@@ -1,5 +1,25 @@
 # :postbox: 2026 GC.OS elections to steering council
 
+The 2026 council elections took place Jul-Aug 2026. Results were announced on the community discord on Sep 1, 2026.
+
+Elected:
+
+Cohort C - 3 year tenure
+
+* seat 1: Kiraly, Franz
+* seat 2: Onyeka, Ugochukwu
+
+Cohort B - 2 year tenure
+
+* seat 3: Jigyasu
+* seat 4: Rovira, Marc
+
+Also see the [page with full results](https://github.com/gc-os-ai/elections/blob/main/2026-results/README.md)
+
+The 2026 announcment page is below, for reference.
+
+---
+
 :mega: GC.OS is holding its first set of board elections!
 
 * :sunny: We believe in open source and open science. We think AI technology - especially open source - should be openly governed.
