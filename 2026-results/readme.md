@@ -16,7 +16,7 @@ This folder containsthe results for the 2026 council elections.
 ### Voter registration
 
 * 16 eligible voters registered to vote for seats 2 and 4.
-* 12 members of the council were eligible to vote for seats 1 and 3.
+* 12 members of the council were eligible, 6 registered to vote for seats 1 and 3.
 
 ### Vote counts
 
