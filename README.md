@@ -14,7 +14,7 @@ Cohort B - 2 year tenure
 * seat 3: Jigyasu
 * seat 4: Rovira, Marc
 
-Also see the [page with full results](https://github.com/gc-os-ai/elections/blob/main/2026-results/README.md)
+Also see the [page with full results](https://github.com/gc-os-ai/elections/blob/main/2026-results/readme.md)
 
 The 2026 announcment page is below, for reference.
 
